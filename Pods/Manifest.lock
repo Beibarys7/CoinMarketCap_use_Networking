@@ -1,0 +1,30 @@
+PODS:
+  - AnimatableReload (0.2.0)
+  - ESPullToRefresh (2.9.3)
+  - SDWebImage (5.10.0):
+    - SDWebImage/Core (= 5.10.0)
+  - SDWebImage/Core (5.10.0)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - AnimatableReload
+  - ESPullToRefresh
+  - SDWebImage
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - AnimatableReload
+    - ESPullToRefresh
+    - SDWebImage
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  AnimatableReload: 9576d3019bfb103f76b5f37fa6f8915bd8307527
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  SDWebImage: 9169792e9eec3e45bba2a0c02f74bf8bd922d1ee
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: b84a780d731aa6f6c13a77f1b1fbe66f2d6b067d
+
+COCOAPODS: 1.10.0

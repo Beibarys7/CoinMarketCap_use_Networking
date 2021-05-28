@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Networking/Pods-Networking-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatableReload/AnimatableReload.framework
+${BUILT_PRODUCTS_DIR}/ESPullToRefresh/ESPullToRefresh.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwipeCellKit/SwipeCellKit.framework

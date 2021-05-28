@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "34B5CB41-C03C-4916-AF9B-E9339A095FE9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NavigationConteiner/View/QuoteCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "QuoteCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF - 43f8f55e3e116454"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationConteiner.QuoteCell.iconImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "NavigationConteiner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beibarysshagay/Documents/xcode/lesson5/NavigationConteiner/NavigationConteiner/View/QuoteCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF - e62581ffe6970860"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationConteiner.QuoteCell.iconImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "NavigationConteiner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beibarysshagay/Documents/xcode/lesson5/NavigationConteiner/NavigationConteiner/View/QuoteCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF - ec0e0cc005bac353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationConteiner.QuoteCell.iconImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "NavigationConteiner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beibarysshagay/Documents/xcode/lesson5/NavigationConteiner/NavigationConteiner/View/QuoteCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF - ad5f6946743d16fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationConteiner.QuoteCell.iconImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NavigationConteiner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beibarysshagay/Documents/xcode/lesson5/NavigationConteiner/NavigationConteiner/View/QuoteCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF - fb54c3982c66ffc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationConteiner.QuoteCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; NavigationConteiner.QuoteCell"
+                  moduleName = "NavigationConteiner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beibarysshagay/Documents/xcode/lesson5/NavigationConteiner/NavigationConteiner/View/QuoteCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "342ECB51-6412-48B6-B409-2CBC8B597FEF - 1307382db259935f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationConteiner.QuoteCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NavigationConteiner.QuoteCell&gt;"
+                  moduleName = "NavigationConteiner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beibarysshagay/Documents/xcode/lesson5/NavigationConteiner/NavigationConteiner/View/QuoteCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
